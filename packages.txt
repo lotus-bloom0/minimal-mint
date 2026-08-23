@@ -166,3 +166,10 @@ mythes-fr
 mythes-it
 mythes-pt-pt
 mythes-ru
+hypnotix
+python3-mutagen
+python3-pyxattr
+python3-websockets
+rtmpdump
+yt-dlp
+celluloid
