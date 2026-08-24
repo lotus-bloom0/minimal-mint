@@ -8,6 +8,7 @@ shotwell
 totem
 usb-creator-gtk
 deja-dup
+simple-scan
 gnome-calendar
 remmina
 aisleriot
