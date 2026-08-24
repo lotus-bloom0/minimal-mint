@@ -173,3 +173,6 @@ python3-websockets
 rtmpdump
 yt-dlp
 celluloid
+drawing
+pix-dbg
+pix
