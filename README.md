@@ -1,9 +1,11 @@
-# Linux Mint mini
+# Minimal Linux Mint
 
-run the `mini.sh` to purge Linux Mint from software that you likely don't need or use. 
+Run `minimal-script.sh` to purge Linux Mint down to a minimal state.
 
-After running bash script on a new Linux Mint install there is _1971_ software packages installed `apt list --installed | wc -l`
+Run `personal-script.sh` to purge software, leaving the pre-installed software that use daily.
 
-- i also added `sudo rm -r /etc/libreoffice/registry/res  \` as it was not removed due to not being empty
+Before running any of these scripts, please refer to the associated text file to determine what packages are removed from the system.
 
-_a minimal Linux_ 
+As of 2026-08-24, running the minimal bash script on a new Linux Mint install there are __XXXX__ software packages installed `apt list --installed | wc -l`
+
+- You may also run `sudo rm -r /etc/libreoffice/registry/res  \` in the terminal, as it was not removed due to not being empty.
